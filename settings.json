@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "skyplex0.aternos.me
+",
+    "port": 50879,
     "version": "",
     "try-creative": false
   },
